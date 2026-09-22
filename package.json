@@ -1,0 +1,15 @@
+{
+  "name": "ci-lab2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "JEST1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
